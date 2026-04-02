@@ -1,0 +1,1 @@
+print('Esse arquivo resolve o bug 1')
